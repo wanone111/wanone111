@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 105 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,16 +63,16 @@ Sunday                   19 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 31 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blogfile                 31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -83,6 +85,6 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 09/09/2025 18:41:59 UTC
+ Last Updated on 10/09/2025 18:43:59 UTC
 <!--END_SECTION:waka-->
 
