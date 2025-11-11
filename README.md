@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2041%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -63,22 +65,16 @@ Sunday                   14 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 53 mins       █████████████░░░░░░░░░░░░   52.98 % 
-C++                      2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FPGA_Code                5 hrs 45 mins       ████████████████████░░░░░   78.30 % 
-hlstrack2025-45599       1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-FPGA_space               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      7 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -92,6 +88,6 @@ C                        1 repo              ██████░░░░░�
 
 
 
- Last Updated on 09/11/2025 18:42:06 UTC
+ Last Updated on 11/11/2025 18:47:05 UTC
 <!--END_SECTION:waka-->
 
