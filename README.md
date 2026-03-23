@@ -1,9 +1,9 @@
 ## Hi  👋 This is wanone111's GitHub
 
 - 🔭 I’m currently working on jmu
-- 🌱 I’m currently learning ROS2 Vitis_hls
+- 🌱 I’m currently learning ROS2 
 - 👯 I’m looking to collaborate on Linux
-- 🤔 I’m looking for help with FPGA
+- 🤔 I’m looking for help with ROS2
 <!--
 **wanone111/wanone111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
