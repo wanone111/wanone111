@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
@@ -55,24 +57,46 @@ Sunday                   9 commits           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.35 % 
-Other                    1 hr 53 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.71 % 
-Text                     44 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.13 % 
-C++                      39 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.22 % 
-C                        34 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.34 % 
+Markdown                 4 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.10 % 
+Other                    2 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.05 % 
+Text                     44 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.55 % 
+C++                      39 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.71 % 
+C                        34 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.89 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  9 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-BoomBoomFly              4 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.48 % 
-aa                       1 hr 55 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.04 % 
-px4_ws                   41 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.62 % 
-common                   36 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.60 % 
-serial_driver_ros2       22 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.09 % 
+BoomBoomFly              5 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.35 % 
+aa                       1 hr 55 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.55 % 
+px4_ws                   58 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.89 % 
+common                   36 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.13 % 
+serial_driver_ros2       22 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.80 % 
 
 💻 Operating System: 
-WSL                      9 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+WSL                      9 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 26 mins (75.36%)
+
+✍️ 22,011 lines written by AI, 710 lines written by hand (96.88% AI-written)
+
+🔤 221,989,237 Input Tokens, 1,236,680 Output Tokens
+
+💵 $1134.35 Estimated AI Cost This Week
+
+🧠 53 AI Sessions, 89 AI Prompts
+
+GPT                      22,399 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.88% of written lines came from AI
+📚 Verbose Prompter — average 10,820 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 3.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -88,6 +112,6 @@ Makefile                 1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/07/2026 01:56:55 UTC
+ Last Updated on 28/07/2026 01:31:46 UTC
 <!--END_SECTION:waka-->
 
